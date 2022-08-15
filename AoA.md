@@ -1,4 +1,4 @@
-|| **ARTICLES OF ASSOCIATION** |
+||**ARTICLES OF ASSOCIATION**|
 | --- | --- |
 |
 | **1** | **General Information** |

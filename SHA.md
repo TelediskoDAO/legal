@@ -1,18 +1,4 @@
-  
-<style>
-table {
-    width: 100%;
-}
-
-td, th {
-   border: none!important;
-   line-height: 10px;
-}
-</style>
-| |
-|:--:|
-|**SHAREHOLDERS' AGREEMENT OF teledisko DAO OÜ**|
-
+**SHAREHOLDERS' AGREEMENT OF teledisko DAO OÜ**
 ___
 
 This Shareholders' Agreement (hereinafter: the **Agreement** ) is entered into on July 18, 2022by and between:
@@ -158,12 +144,3 @@ F) first two members of DAO (i.e. the founder and the company itself) have agree
 * 16.7. All amendments and annexes to this Agreement, including the list of persons being joined with this Agreement after the entry into force of this Agreement, shall constitute inseparable parts of this Agreement and are included in the definition of this Agreement.
 * 16.8. A Shareholder is prohibited to transfer any rights deriving from this Agreement to any third person. A Shareholder may transfer this Agreement only in its entirety and only to its successor together with all the shares of DAO it owns.
 * 16.9. All disputes raising from this Agreement shall be settled by way of negotiations. Unsettled disputes shall be forwarded to Harju District Court _[Harju Maakohus]_ in Estonia.
-
-<br />
-<br />
-
-| _____________________ | _____________________ |
-|:---------------------------------|--------------------------------------:|
-|**Benjamin Gregor Uphues** | **Benjamin Gregor Uphues**|  
-| | **Member of Management Board**|
-| | **teledisko DAO OÜ**|
