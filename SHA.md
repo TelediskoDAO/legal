@@ -1,16 +1,15 @@
-**SHAREHOLDERS' AGREEMENT OF teledisko DAO OÜ**
-___
+# SHAREHOLDERS' AGREEMENT OF teledisko DAO OÜ
 
-This Shareholders' Agreement (hereinafter: the **Agreement** ) is entered into on July 18, 2022by and between:
+This Shareholders' Agreement (hereinafter: the **Agreement**) is entered into on July 18, 2022by and between:
 
 1. **Benjamin Gregor Uphues** , Estonian personal identification code: 37707310185, place of residence: Berlin, Germany; and
-2. **teledisko DAO OÜ** , registry code: 16374990, having its registered office in Tallinn, Estonia (hereinafter: **DAO** ), represented by management board member Benjamin Gregor Uphues,
+2. **teledisko DAO OÜ** , registry code: 16374990, having its registered office in Tallinn, Estonia (hereinafter: **DAO**), represented by management board member Benjamin Gregor Uphues,
 
 hereinafter collectively referred to as the  **"Shareholders"** and individually as a  **"Shareholder"**.
 
 ### **Whereas**,
 
-A) teledisko DAO OÜ (hereinafter: **DAO** ) is organized in the form of a private limited company in Estonia, but it shall act and be governed as a decentralised autonomous organisation,
+A) teledisko DAO OÜ (hereinafter: **DAO**) is organized in the form of a private limited company in Estonia, but it shall act and be governed as a decentralised autonomous organisation,
 
 B) the goal of DAO is to build an organisation that acts externally as a regular company, but internally operates without a single central authority (i.e. without a single-point-of-failure);
 
