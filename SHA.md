@@ -31,7 +31,7 @@ F) first two members of DAO (i.e. the founder and the company itself) have agree
  * 1.5. The Shareholders may, with a DAO vote, transform DAO from being a private limited company into something else (e.g. public limited company) which is more suitable for a decentralised autonomous organisation as the legal environment evolves over time. In that case, this Agreement shall be applied _mutatis mutandis_.
  * 1.6. Whenever the designation of "person" is used in this Agreement, it includes all natural persons, legal persons and entities that are legally capable of being shareholders of a private limited company.
  * 1.7. Whenever the designation of "DAO vote" is used in this Agreement, it legally means a resolution of the shareholders of DAO irrespective of the applicable procedure.
-1. **JOINING DAO**
+2. **JOINING DAO**
 * 2.1. Every person can join DAO by becoming a Shareholder. The general procedure for that is as follows:
     * 2.1.1. A person shall express its interest through a platform provided by DAO, accept the terms and conditions of this Agreement and pass appropriate KYC and AML procedures;
     * 2.1.2. DAO shall overview the submitted information, require amendments, where necessary, and approve or reject the application;
